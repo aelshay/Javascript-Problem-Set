@@ -1,0 +1,23 @@
+PS C:\Users\Cyan\Desktop\Seneca\CPA\Sem2\WEB 222\Weekly lessons\Week 3\New\A1> npm test
+
+> web222-assignment-1@5.0.0 test
+> jest --
+
+ PASS  src/problem-09.test.js
+ PASS  src/problem-10.test.js
+ PASS  src/problem-04.test.js
+ PASS  src/problem-03.test.js
+ PASS  src/problem-08.test.js
+ PASS  src/problem-05.test.js
+ PASS  src/problem-01.test.js
+ PASS  src/problem-07.test.js
+ PASS  src/problem-02.test.js
+ PASS  src/problem-06.test.js
+ PASS  src/problem-00.test.js
+
+Test Suites: 11 passed, 11 total
+Tests:       108 passed, 108 total
+Snapshots:   0 total
+Time:        2.454 s
+Ran all test suites.
+PS C:\Users\Cyan\Desktop\Seneca\CPA\Sem2\WEB 222\Weekly lessons\Week 3\New\A1> 
